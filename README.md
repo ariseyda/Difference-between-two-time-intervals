@@ -1,0 +1,2 @@
+# Difference-between-two-time-intervals
+Write a program using structures, which asks the user to enter two time intervals in hours, minutes and seconds, and then calculates the difference between the two time intervals entered by the user. Use the functions given below to get the time information, print the time information and calculate the difference. Type identification should be done for TIME. void scanTime (TIME * t); void printTime (const TIME * t); void difference (TIME t1, TIME t2, TIME * diff);
